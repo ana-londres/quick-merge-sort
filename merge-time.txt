@@ -1,0 +1,12 @@
+instancias-num/num.1000.1.in: 0.001445 segundos
+instancias-num/num.1000.2.in: 0.001443 segundos
+instancias-num/num.1000.3.in: 0.002612 segundos
+instancias-num/num.1000.4.in: 0.001471 segundos
+instancias-num/num.10000.1.in: 0.019666 segundos
+instancias-num/num.10000.2.in: 0.019955 segundos
+instancias-num/num.10000.3.in: 0.019053 segundos
+instancias-num/num.10000.4.in: 0.021253 segundos
+instancias-num/num.100000.1.in: 0.227715 segundos
+instancias-num/num.100000.2.in: 0.225402 segundos
+instancias-num/num.100000.3.in: 0.227244 segundos
+instancias-num/num.100000.4.in: 0.225430 segundos
