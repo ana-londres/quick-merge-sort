@@ -1,11 +1,5 @@
 import time  # Importa o módulo time para medir o tempo de execução
 
-# Função para ordenar a lista usando o QuickSort com Mediana de Três
-def ordena(lista):
-    tamanho_da_lista = len(lista)
-    if tamanho_da_lista > 0:
-        quick(lista, 0, tamanho_da_lista - 1)
-
 # Função principal do QuickSort
 def quick(lista, inicio, fim):
     if inicio >= fim:  # Condição de parada
